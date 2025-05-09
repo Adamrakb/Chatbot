@@ -1,0 +1,8 @@
+<aiml version="1.0.1" encoding="UTF-8">
+  <category>
+    <pattern>HALO</pattern>
+    <template>
+      "Halo Abay!"
+    </template>
+  </category>
+</aiml>

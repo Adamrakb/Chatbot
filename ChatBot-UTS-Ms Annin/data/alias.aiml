@@ -1,0 +1,15 @@
+<aiml version="1.0.1" encoding="UTF-8">
+  <category>
+    <pattern>WHO AM I JARVIS</pattern>
+    <template>
+      <srai>DO YOU KNOW ME</srai>
+    </template>
+  </category>
+
+  <category>
+    <pattern>DO YOU KNOW ME JARVIS</pattern>
+    <template>
+      <srai>DO YOU KNOW ME</srai>
+    </template>
+  </category>
+</aiml>
