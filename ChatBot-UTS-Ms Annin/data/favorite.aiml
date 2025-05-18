@@ -1,6 +1,6 @@
 <aiml version="1.0.1" encoding="UTF-8">
   <category>
-    <pattern>SIAPA PENYANYI FAVORITEKU</pattern>
+    <pattern>SIAPA PENYANYI FAVORIT KU</pattern>
     <template>
       <random>
         <li>Jennie dari Blackpink</li>
